@@ -1,0 +1,6 @@
+.DS_Store
+dist
+temp
+.env
+.env.*
+now.json
