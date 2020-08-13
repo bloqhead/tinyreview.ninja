@@ -1,6 +1,8 @@
 .DS_Store
 dist
+_site
 temp
 .env
 .env.*
 now.json
+node_modules
