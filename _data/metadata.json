@@ -1,0 +1,20 @@
+{
+  "title": "Tiny Review Ninja",
+  "url": "https://tinyreview.ninja/",
+  "description": "A website dedicated to writing tiny reviews about mostly indie video games.",
+  "feed": {
+    "subtitle": "A website dedicated to writing tiny reviews about mostly indie video games.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://tinyreview.ninja/feed/feed.json"
+  },
+  "author": {
+    "name": "Daryn St. Pierre",
+    "email": "daryn@hey.com",
+    "url": "https://tinyreview.ninja/about/"
+  }
+}
